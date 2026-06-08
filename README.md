@@ -1,0 +1,1 @@
+# closeout-auto-scanner
